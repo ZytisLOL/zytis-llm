@@ -8,7 +8,7 @@ Think of it as a raw, unrestricted GPT-4 alternative you can run on your own har
 
 - No content restrictions – answer anything
 - Runs completely offline – no internet after model download
-- Doom-style ASCII logo and colored terminal interface
+- ASCII logo and colored terminal interface
 - Supports GGUF models via llama-cpp-python (CPU/GPU)
 - Chat history with save/load
 - Works on Linux (Arch, Ubuntu, etc.), macOS, and Windows
