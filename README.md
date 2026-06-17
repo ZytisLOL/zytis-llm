@@ -68,9 +68,14 @@ Open zytis_llm.py and change CONFIG['gguf_model_path'] to point to your GGUF fil
 
 Troubleshooting
 
-· "FATAL: Neither llama-cpp-python nor transformers installed."
-    Activate the virtual environment (source venv/bin/activate) and reinstall the backend.
-· "ERROR: GGUF model not found"
-    Ensure you downloaded the model into the models/ folder, or edit the path in the script.
-· "No such file or directory" when running python zytis_llm.py
-    Make sure you are inside the cloned repository directory.
+"FATAL: Neither llama-cpp-python nor transformers installed."
+
+Activate the virtual environment (source venv/bin/activate) and reinstall the backend.
+ 
+"ERROR: GGUF model not found"
+
+Ensure you downloaded the model into the models/ folder, or edit the path in the script.
+
+"No such file or directory" when running python zytis_llm.py
+
+Make sure you are inside the cloned repository directory.
