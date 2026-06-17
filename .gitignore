@@ -1,0 +1,10 @@
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+models/unrestricted-model.Q4_K_M.gguf
+*.tar.gz
+*.zip
+.DS_Store
