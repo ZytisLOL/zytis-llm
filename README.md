@@ -50,6 +50,7 @@ Think of it as a raw, unrestricted GPT-4 alternative you can run on your own har
    ```bash
    python zytis_llm.py
    ```
+(note that Zytis may take a minute to load!)
 
 Usage
 
