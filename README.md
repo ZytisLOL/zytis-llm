@@ -29,7 +29,7 @@ Think of it as a raw, unrestricted GPT-4 alternative you can run on your own har
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zytis-llm.git
+   git clone https://github.com/ZytisLOL/zytis-llm.git
    cd zytis-llm
    ```
 3. Create and activate a virtual environment:
