@@ -54,14 +54,14 @@ Think of it as a raw, unrestricted GPT-4 alternative you can run on your own har
 
 Usage
 
-· Type your query at the [Zytis] >>> prompt and press Enter.
-· Commands:
-  · /exit – quit and save history
-  · /clear – reset conversation context
-  · /save filename.json – save chat to a file
-  · /load filename.json – load a previous chat
-  · /model – display current configuration
-  · /help – show all commands
+ Type your query at the [Zytis] >>> prompt and press Enter.
+ Commands:
+   /exit – quit and save history
+   /clear – reset conversation context
+   /save filename.json – save chat to a file
+   /load filename.json – load a previous chat
+   /model – display current configuration
+   /help – show all commands
 
 Using Your Own Model
 
