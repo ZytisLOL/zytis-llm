@@ -25,7 +25,7 @@ Think of it as a raw, unrestricted GPT-4 alternative you can run on your own har
 1. Install system dependencies:
    ```bash
    sudo pacman -S --needed python python-pip git wget cmake base-devel
-```
+   ```
 
 2. Clone the repository:
    ```bash
